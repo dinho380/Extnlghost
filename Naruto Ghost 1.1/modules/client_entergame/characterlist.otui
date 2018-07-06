@@ -1,0 +1,130 @@
+
+
+
+CharacterWidget < UIWidget
+  width: 170
+  padding: 5
+  border: 0 #ffffffff
+  background-color: alpha
+
+  $focus:
+    border: 1 #0077ff
+    background-color: #72CAFD22
+
+  UICreature
+    id: outfit
+    size: 68 68
+    padding: 3
+    margin-top: 2
+    anchors.top: parent.top
+    anchors.horizontalCenter: parent.horizontalCenter
+    background-color: alpha
+    border: 0 #ffffffff
+
+  Label
+    id: name
+    color: #ffffff
+    anchors.top: outfit.bottom
+    anchors.left: parent.left
+    margin-left: 3
+    font: verdana-11px-monochrome
+    text-auto-resize: true
+    background-color: alpha
+
+  Label
+    id: level
+    color: #ffffff
+    anchors.top: name.bottom
+    anchors.left: parent.left
+    margin-left: 3
+    font: verdana-11px-monochrome
+    text-auto-resize: true
+    background-color: alpha
+
+  Label
+    id: caught
+    color: #ffffff
+    anchors.top: levelPercent.bottom
+    anchors.right: levelPercent.right
+    margin: 2
+    margin-left: 5
+    font: verdana-11px-monochrome
+    text-auto-resize: true
+    background-color: alpha
+
+MainWindow
+  id: charactersWindow
+  !text: tr('Character List')
+  // size: 370 400
+  size: 544 280
+  visible: false
+  @onEnter: CharacterList.doLogin()
+  @onEscape: CharacterList.hide(true)
+  @onSetup: |
+    g_keyboard.bindKeyPress('Left', function() self:getChildById('characters'):focusPreviousChild(KeyboardFocusReason) end, self)
+    g_keyboard.bindKeyPress('Right', function() self:getChildById('characters'):focusNextChild(KeyboardFocusReason) end, self)
+
+  HorizontalList
+    id: characters
+    anchors.top: parent.top
+    anchors.left: parent.left
+    anchors.right: parent.right
+    anchors.bottom: accountStatusCaption.top
+    margin-bottom: 18
+    padding: 1
+    focusable: false
+    horizontal-scrollbar: characterListScrollBar
+    auto-focus: first
+
+  HorizontalScrollBar
+    id: characterListScrollBar
+    anchors.left: parent.left
+    anchors.bottom: accountStatusCaption.top
+    anchors.right: parent.right
+    margin-bottom: 5
+    step: 170
+    pixels-scroll: true
+
+  Label
+    id: accountStatusCaption
+    !text: tr('Account Status') .. ':'
+    anchors.left: parent.left
+    anchors.right: parent.right
+    anchors.bottom: next.top
+    margin-bottom: 1
+
+  Label
+    id: accountStatusLabel
+    !text: tr('Free Account')
+    anchors.left: parent.left
+    anchors.right: parent.right
+    anchors.bottom: separator.top
+    margin-bottom: 5
+    text-auto-resize: true
+
+    $on:
+      color: #FF0000
+
+  HorizontalSeparator
+    id: separator
+    anchors.left: parent.left
+    anchors.right: parent.right
+    anchors.bottom: next.top
+    margin-bottom: 10
+
+  Button
+    id: buttonOk
+    !text: tr('Ok')
+    width: 64
+    anchors.right: next.left
+    anchors.bottom: parent.bottom
+    margin-right: 10
+    @onClick: CharacterList.doLogin()
+
+  Button
+    id: buttonCancel
+    !text: tr('Cancel')
+    width: 64
+    anchors.right: parent.right
+    anchors.bottom: parent.bottom
+    @onClick: CharacterList.hide(true)
