@@ -1,0 +1,1734 @@
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 25 2014 17:14:32
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077DB9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077DB9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 25 2014 17:14:42
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077DB9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077DB9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 25 2014 17:14:50
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077DB9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077DB9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 25 2014 17:14:59
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077DB9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077DB9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 25 2014 17:15:13
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x0000000077DB9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x0000000077DB9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Dec 21 2014 21:48:51
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000772F9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000772F9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Dec 21 2014 21:48:59
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000772F9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000772F9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Dec 21 2014 21:49:46
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000772F9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000772F9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Dec 21 2014 21:51:11
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000772F9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000772F9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jan 07 2015 22:31:08
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000770C9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000770C9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jan 07 2015 22:31:16
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000770C9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000770C9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jan 07 2015 22:32:03
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004277E0]
+    1: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004279D4]
+    2: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000043BFCC]
+    3: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000431BEE]
+    4: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x000000000044E906]
+    5: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457FD2]
+    6: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    7: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    8: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000457E5B]
+    9: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000458037]
+    10: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000479170]
+    11: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x0000000000463711]
+    12: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\THALES\Desktop\Naruto Lost Extreme Client\otclient-2a57a5f7d0.exe [0x00000000004010FD]
+    14: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x63) [0x00000000770C9F72]
+    15: C:\Windows\SysWOW64\ntdll.dll(RtlInitializeExceptionChain+0x36) [0x00000000770C9F45]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 27 2016 16:22:17
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077AF5DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077AF5DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 27 2016 16:22:44
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077AF5DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077AF5DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 07 2016 12:12:33
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077915DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077915DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 07 2016 13:00:07
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077915DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077915DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 07 2016 13:00:55
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077915DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077915DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 07 2016 13:29:23
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077915DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077915DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 07 2016 13:34:58
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077915DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077915DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 07 2016 13:40:32
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077915DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077915DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jul 08 2016 18:39:30
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x253) [0x0000000077385DE3]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlUnicodeStringToInteger+0x21e) [0x0000000077385DAE]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 27 2016 15:18:18
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077500719]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000775006E4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 27 2016 15:18:38
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077500719]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000775006E4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 27 2016 15:19:01
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077500719]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000775006E4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 27 2016 15:33:25
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077500719]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000775006E4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 27 2016 15:39:47
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004277E0]
+    1: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004279D4]
+    2: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000043BFCC]
+    3: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000431BEE]
+    4: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x000000000044E906]
+    5: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457FD2]
+    6: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    7: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    8: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000457E5B]
+    9: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000458037]
+    10: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000479170]
+    11: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x0000000000463711]
+    12: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\esnio\Desktop\Teste Programação\Nlext.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077500719]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000775006E4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Mar 30 2017 09:46:35
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\EXTNL - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000773A0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000773A0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Mar 30 2017 10:59:21
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Extreme Naruto Lost - 1.0\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000773A0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000773A0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Mar 30 2017 15:17:21
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000773A0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000773A0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Mar 30 2017 15:34:58
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000773A0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000773A0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Mar 30 2017 19:31:33
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000773A0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000773A0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: May 24 2017 14:02:17
+exception: Access violation (0xc0000005)
+exception address: 0x0042c45d
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000042C45D]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000042A0A9]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xee6b0) [0x000000000071DC20]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x8900d) [0x00000000006B857D]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xf8094) [0x0000000000727604]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000452B5B]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(alGetListeneriv+0x3cadb) [0x0000000000510FDB]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xf9d6c98) [0x0000000010006208]
+    8: Unknown [0x000000001E5901C8]
+    9: Unknown [0x000000001E5901C8]
+    10: Unknown [0x0000000010E3B5E8]
+    11: Unknown [0x0000000010DC3870]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: May 24 2017 14:22:30
+exception: Access violation (0xc0000005)
+exception address: 0x0042c45d
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000042C45D]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000042A0A9]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xee6b0) [0x000000000071DC20]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x8900d) [0x00000000006B857D]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xf8094) [0x0000000000727604]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000452B5B]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(alGetListeneriv+0x3cadb) [0x0000000000510FDB]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xf9d6a98) [0x0000000010006008]
+    8: Unknown [0x0000000017B501D0]
+    9: Unknown [0x0000000017B501D0]
+    10: Unknown [0x0000000010D9B5E8]
+    11: Unknown [0x0000000016C298D8]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: May 25 2017 16:49:19
+exception: Access violation (0xc0000005)
+exception address: 0x0042c45d
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000042C45D]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000042A0A9]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xee6b0) [0x000000000071DC20]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x8900d) [0x00000000006B857D]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xf8094) [0x0000000000727604]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000452B5B]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(alGetListeneriv+0x3cadb) [0x0000000000510FDB]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0xf9d6b98) [0x0000000010006108]
+    8: Unknown [0x000000001EA241D0]
+    9: Unknown [0x000000001EA241D0]
+    10: Unknown [0x0000000010DBB5E8]
+    11: Unknown [0x0000000012EB3870]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 24 2017 21:54:28
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 24 2017 21:55:04
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 24 2017 21:55:27
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 24 2017 21:58:18
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000463711]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 27 2017 18:32:57
+exception: Access violation (0xc0000005)
+exception address: 0x0047918b
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000047918B]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    5: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    6: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    7: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    8: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    9: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    10: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    11: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    12: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    13: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    14: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    15: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    16: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    17: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    18: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    19: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    20: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    21: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    22: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    23: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    24: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    25: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    26: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    27: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    28: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    29: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    30: C:\WINDOWS\System32\combase.dll(CleanupTlsComl2State+0xb16) [0x0000000074C68F16]
+    31: C:\WINDOWS\System32\combase.dll(CoGetCallContext+0x7494) [0x0000000074BF8384]
+    32: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x119) [0x0000000074BD6FC9]
+    33: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x2962) [0x0000000074BD9812]
+    34: C:\WINDOWS\System32\combase.dll(CoUninitialize+0x7e) [0x0000000074BEF6CE]
+    35: C:\WINDOWS\System32\IMM32.DLL(CtfImmCoUninitialize+0x48) [0x0000000074083E58]
+    36: C:\WINDOWS\System32\USER32.dll(RemovePropW+0x106) [0x00000000747B9EA6]
+    37: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x3ec) [0x00000000747B80DC]
+    38: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x2b6) [0x00000000747B7FA6]
+    39: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    40: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004634CA]
+    41: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x14531c) [0x000000000077488C]
+    42: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    43: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    44: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 27 2017 18:33:05
+exception: Access violation (0xc0000005)
+exception address: 0x0047918b
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000047918B]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    5: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    6: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    7: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    8: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    9: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    10: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    11: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    12: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    13: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    14: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    15: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    16: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    17: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    18: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    19: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    20: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    21: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    22: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    23: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    24: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    25: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    26: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    27: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    28: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    29: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    30: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x24e) [0x00000000747BC2AE]
+    31: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x150) [0x00000000747BC1B0]
+    32: C:\WINDOWS\System32\USER32.dll(SoftModalMessageBox+0x2227) [0x000000007482B2D7]
+    33: C:\WINDOWS\System32\USER32.dll(MessageBoxW+0x2bb) [0x0000000074828E3B]
+    34: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutW+0x7e) [0x0000000074828B4E]
+    35: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutA+0x7b) [0x0000000074828A9B]
+    36: C:\WINDOWS\System32\USER32.dll(MessageBoxExA+0x1b) [0x000000007482887B]
+    37: C:\WINDOWS\System32\USER32.dll(MessageBoxA+0x18) [0x0000000074828848]
+    38: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000487D32]
+    39: C:\WINDOWS\System32\KERNELBASE.dll(UnhandledExceptionFilter+0x172) [0x00000000771BD452]
+    40: C:\WINDOWS\SYSTEM32\ntdll.dll(LdrResolveDelayLoadsFromDll+0xa5f) [0x00000000773365DF]
+    41: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserApcDispatcher+0x76) [0x0000000077300836]
+    42: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlConvertUlongToLargeInteger+0x74) [0x0000000077312D44]
+    43: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserExceptionDispatcher+0xf) [0x00000000773008EF]
+    44: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    45: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    46: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    47: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    48: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    49: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    50: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    51: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    52: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    53: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    54: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    55: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    56: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    57: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    58: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    59: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    60: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    61: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    62: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    63: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    64: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    65: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    66: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    67: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    68: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    69: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    70: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    71: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    72: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    73: C:\WINDOWS\System32\combase.dll(CleanupTlsComl2State+0xb16) [0x0000000074C68F16]
+    74: C:\WINDOWS\System32\combase.dll(CoGetCallContext+0x7494) [0x0000000074BF8384]
+    75: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x119) [0x0000000074BD6FC9]
+    76: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x2962) [0x0000000074BD9812]
+    77: C:\WINDOWS\System32\combase.dll(CoUninitialize+0x7e) [0x0000000074BEF6CE]
+    78: C:\WINDOWS\System32\IMM32.DLL(CtfImmCoUninitialize+0x48) [0x0000000074083E58]
+    79: C:\WINDOWS\System32\USER32.dll(RemovePropW+0x106) [0x00000000747B9EA6]
+    80: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x3ec) [0x00000000747B80DC]
+    81: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x2b6) [0x00000000747B7FA6]
+    82: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    83: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004634CA]
+    84: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x14531c) [0x000000000077488C]
+    85: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    86: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    87: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 28 2017 00:56:29
+exception: Access violation (0xc0000005)
+exception address: 0x0047918b
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000047918B]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    5: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    6: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    7: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    8: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    9: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    10: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    11: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    12: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    13: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    14: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    15: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    16: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    17: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    18: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    19: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    20: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    21: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    22: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    23: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    24: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    25: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    26: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    27: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    28: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    29: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    30: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x24e) [0x00000000747BC2AE]
+    31: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x150) [0x00000000747BC1B0]
+    32: C:\WINDOWS\System32\USER32.dll(SoftModalMessageBox+0x2227) [0x000000007482B2D7]
+    33: C:\WINDOWS\System32\USER32.dll(MessageBoxW+0x2bb) [0x0000000074828E3B]
+    34: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutW+0x7e) [0x0000000074828B4E]
+    35: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutA+0x7b) [0x0000000074828A9B]
+    36: C:\WINDOWS\System32\USER32.dll(MessageBoxExA+0x1b) [0x000000007482887B]
+    37: C:\WINDOWS\System32\USER32.dll(MessageBoxA+0x18) [0x0000000074828848]
+    38: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000487D32]
+    39: C:\WINDOWS\System32\KERNELBASE.dll(UnhandledExceptionFilter+0x172) [0x00000000771BD452]
+    40: C:\WINDOWS\SYSTEM32\ntdll.dll(LdrResolveDelayLoadsFromDll+0xa5f) [0x00000000773365DF]
+    41: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserApcDispatcher+0x76) [0x0000000077300836]
+    42: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlConvertUlongToLargeInteger+0x74) [0x0000000077312D44]
+    43: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserExceptionDispatcher+0xf) [0x00000000773008EF]
+    44: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    45: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    46: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    47: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    48: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    49: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    50: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    51: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    52: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    53: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    54: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    55: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    56: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    57: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    58: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    59: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    60: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    61: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    62: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    63: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    64: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    65: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    66: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    67: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    68: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    69: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    70: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    71: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    72: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    73: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x24e) [0x00000000747BC2AE]
+    74: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x150) [0x00000000747BC1B0]
+    75: C:\WINDOWS\System32\USER32.dll(SoftModalMessageBox+0x2227) [0x000000007482B2D7]
+    76: C:\WINDOWS\System32\USER32.dll(MessageBoxW+0x2bb) [0x0000000074828E3B]
+    77: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutW+0x7e) [0x0000000074828B4E]
+    78: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutA+0x7b) [0x0000000074828A9B]
+    79: C:\WINDOWS\System32\USER32.dll(MessageBoxExA+0x1b) [0x000000007482887B]
+    80: C:\WINDOWS\System32\USER32.dll(MessageBoxA+0x18) [0x0000000074828848]
+    81: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000487D32]
+    82: C:\WINDOWS\System32\KERNELBASE.dll(UnhandledExceptionFilter+0x172) [0x00000000771BD452]
+    83: C:\WINDOWS\SYSTEM32\ntdll.dll(LdrResolveDelayLoadsFromDll+0xa5f) [0x00000000773365DF]
+    84: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserApcDispatcher+0x76) [0x0000000077300836]
+    85: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlConvertUlongToLargeInteger+0x74) [0x0000000077312D44]
+    86: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserExceptionDispatcher+0xf) [0x00000000773008EF]
+    87: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    88: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    89: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    90: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    91: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    92: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    93: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    94: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    95: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    96: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    97: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    98: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    99: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    100: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    101: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    102: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    103: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    104: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    105: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    106: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    107: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    108: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    109: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    110: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    111: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    112: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    113: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    114: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    115: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    116: C:\WINDOWS\System32\combase.dll(CleanupTlsComl2State+0xb16) [0x0000000074C68F16]
+    117: C:\WINDOWS\System32\combase.dll(CoGetCallContext+0x7494) [0x0000000074BF8384]
+    118: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x119) [0x0000000074BD6FC9]
+    119: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x2962) [0x0000000074BD9812]
+    120: C:\WINDOWS\System32\combase.dll(CoUninitialize+0x7e) [0x0000000074BEF6CE]
+    121: C:\WINDOWS\System32\IMM32.DLL(CtfImmCoUninitialize+0x48) [0x0000000074083E58]
+    122: C:\WINDOWS\System32\USER32.dll(RemovePropW+0x106) [0x00000000747B9EA6]
+    123: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x3ec) [0x00000000747B80DC]
+    124: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x2b6) [0x00000000747B7FA6]
+    125: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    126: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004634CA]
+    127: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x14531c) [0x000000000077488C]
+    128: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    129: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    130: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Jun 28 2017 01:01:25
+exception: Access violation (0xc0000005)
+exception address: 0x0047918b
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000047918B]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    5: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    6: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    7: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    8: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    9: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    10: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    11: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    12: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    13: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    14: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    15: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    16: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    17: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    18: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    19: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    20: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    21: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    22: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    23: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    24: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    25: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    26: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    27: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    28: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    29: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    30: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x24e) [0x00000000747BC2AE]
+    31: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x150) [0x00000000747BC1B0]
+    32: C:\WINDOWS\System32\USER32.dll(SoftModalMessageBox+0x2227) [0x000000007482B2D7]
+    33: C:\WINDOWS\System32\USER32.dll(MessageBoxW+0x2bb) [0x0000000074828E3B]
+    34: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutW+0x7e) [0x0000000074828B4E]
+    35: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutA+0x7b) [0x0000000074828A9B]
+    36: C:\WINDOWS\System32\USER32.dll(MessageBoxExA+0x1b) [0x000000007482887B]
+    37: C:\WINDOWS\System32\USER32.dll(MessageBoxA+0x18) [0x0000000074828848]
+    38: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000487D32]
+    39: C:\WINDOWS\System32\KERNELBASE.dll(UnhandledExceptionFilter+0x172) [0x00000000771BD452]
+    40: C:\WINDOWS\SYSTEM32\ntdll.dll(LdrResolveDelayLoadsFromDll+0xa5f) [0x00000000773365DF]
+    41: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserApcDispatcher+0x76) [0x0000000077300836]
+    42: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlConvertUlongToLargeInteger+0x74) [0x0000000077312D44]
+    43: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserExceptionDispatcher+0xf) [0x00000000773008EF]
+    44: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    45: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    46: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    47: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    48: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    49: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    50: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    51: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    52: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    53: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    54: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    55: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    56: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    57: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    58: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    59: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    60: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    61: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    62: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    63: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    64: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    65: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    66: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    67: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    68: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    69: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    70: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    71: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    72: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    73: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x24e) [0x00000000747BC2AE]
+    74: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x150) [0x00000000747BC1B0]
+    75: C:\WINDOWS\System32\USER32.dll(SoftModalMessageBox+0x2227) [0x000000007482B2D7]
+    76: C:\WINDOWS\System32\USER32.dll(MessageBoxW+0x2bb) [0x0000000074828E3B]
+    77: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutW+0x7e) [0x0000000074828B4E]
+    78: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutA+0x7b) [0x0000000074828A9B]
+    79: C:\WINDOWS\System32\USER32.dll(MessageBoxExA+0x1b) [0x000000007482887B]
+    80: C:\WINDOWS\System32\USER32.dll(MessageBoxA+0x18) [0x0000000074828848]
+    81: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000487D32]
+    82: C:\WINDOWS\System32\KERNELBASE.dll(UnhandledExceptionFilter+0x172) [0x00000000771BD452]
+    83: C:\WINDOWS\SYSTEM32\ntdll.dll(LdrResolveDelayLoadsFromDll+0xa5f) [0x00000000773365DF]
+    84: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserApcDispatcher+0x76) [0x0000000077300836]
+    85: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlConvertUlongToLargeInteger+0x74) [0x0000000077312D44]
+    86: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserExceptionDispatcher+0xf) [0x00000000773008EF]
+    87: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    88: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    89: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    90: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    91: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    92: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    93: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    94: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    95: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    96: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    97: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    98: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    99: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    100: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    101: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    102: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    103: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    104: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    105: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    106: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    107: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    108: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    109: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    110: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    111: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    112: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    113: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    114: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    115: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    116: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x24e) [0x00000000747BC2AE]
+    117: C:\WINDOWS\System32\USER32.dll(CreateDialogIndirectParamAorW+0x150) [0x00000000747BC1B0]
+    118: C:\WINDOWS\System32\USER32.dll(SoftModalMessageBox+0x2227) [0x000000007482B2D7]
+    119: C:\WINDOWS\System32\USER32.dll(MessageBoxW+0x2bb) [0x0000000074828E3B]
+    120: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutW+0x7e) [0x0000000074828B4E]
+    121: C:\WINDOWS\System32\USER32.dll(MessageBoxTimeoutA+0x7b) [0x0000000074828A9B]
+    122: C:\WINDOWS\System32\USER32.dll(MessageBoxExA+0x1b) [0x000000007482887B]
+    123: C:\WINDOWS\System32\USER32.dll(MessageBoxA+0x18) [0x0000000074828848]
+    124: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000487D32]
+    125: C:\WINDOWS\System32\KERNELBASE.dll(UnhandledExceptionFilter+0x172) [0x00000000771BD452]
+    126: C:\WINDOWS\SYSTEM32\ntdll.dll(LdrResolveDelayLoadsFromDll+0xa5f) [0x00000000773365DF]
+    127: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserApcDispatcher+0x76) [0x0000000077300836]
+    128: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlConvertUlongToLargeInteger+0x74) [0x0000000077312D44]
+    129: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserExceptionDispatcher+0xf) [0x00000000773008EF]
+    130: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004633BD]
+    131: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x7a869) [0x00000000006A9DD9]
+    132: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1076d1) [0x0000000000736C41]
+    133: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A395E]
+    134: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    135: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    136: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    137: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    138: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    139: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    140: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    141: C:\WINDOWS\System32\USER32.dll(MsgWaitForMultipleObjectsEx+0x309) [0x00000000747B8B09]
+    142: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    143: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x1f1d) [0x00000000747AFEAD]
+    144: C:\WINDOWS\System32\USER32.dll(SetRect+0x17d) [0x00000000747CA92D]
+    145: C:\WINDOWS\system32\uxtheme.dll(OpenThemeData+0x121f) [0x0000000072E7690F]
+    146: C:\WINDOWS\system32\uxtheme.dll(GetThemeBool+0x1b8) [0x0000000072E852C8]
+    147: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x18f4) [0x00000000747AF884]
+    148: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004A397A]
+    149: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    150: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    151: C:\WINDOWS\System32\USER32.dll(CallWindowProcW+0x97) [0x00000000747ADF17]
+    152: C:\WINDOWS\SYSTEM32\OPENGL32.DLL(glDebugEntry+0xeb3) [0x000000005D8DCE43]
+    153: C:\WINDOWS\System32\USER32.dll(SetManipulationInputTarget+0x53) [0x00000000747CD2B3]
+    154: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x8fa) [0x00000000747AE88A]
+    155: C:\WINDOWS\System32\USER32.dll(DispatchMessageW+0x530) [0x00000000747AE4C0]
+    156: C:\WINDOWS\System32\USER32.dll(RemovePropW+0xa1) [0x00000000747B9E41]
+    157: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    158: C:\WINDOWS\System32\USER32.dll(PeekMessageW+0x14d) [0x00000000747B6A6D]
+    159: C:\WINDOWS\System32\combase.dll(CleanupTlsComl2State+0xb16) [0x0000000074C68F16]
+    160: C:\WINDOWS\System32\combase.dll(CoGetCallContext+0x7494) [0x0000000074BF8384]
+    161: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x119) [0x0000000074BD6FC9]
+    162: C:\WINDOWS\System32\combase.dll(CoDecrementMTAUsage+0x2962) [0x0000000074BD9812]
+    163: C:\WINDOWS\System32\combase.dll(CoUninitialize+0x7e) [0x0000000074BEF6CE]
+    164: C:\WINDOWS\System32\IMM32.DLL(CtfImmCoUninitialize+0x48) [0x0000000074083E58]
+    165: C:\WINDOWS\System32\USER32.dll(RemovePropW+0x106) [0x00000000747B9EA6]
+    166: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x3ec) [0x00000000747B80DC]
+    167: C:\WINDOWS\System32\USER32.dll(CallNextHookEx+0x2b6) [0x00000000747B7FA6]
+    168: C:\WINDOWS\SYSTEM32\ntdll.dll(KiUserCallbackDispatcher+0x36) [0x00000000773008C6]
+    169: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004634CA]
+    170: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x14531c) [0x000000000077488C]
+    171: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    172: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x00000000772F0FD9]
+    173: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x00000000772F0FA4]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Oct 08 2017 10:08:58
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077010F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077010F44]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Oct 08 2017 10:12:15
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077010F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077010F44]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Oct 28 2017 16:56:30
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077400F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077400F44]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Oct 28 2017 16:59:07
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077400F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077400F44]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 02 2017 15:41:00
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077E40F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077E40F44]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 03 2017 19:51:26
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077E40F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077E40F44]
+
+== application crashed
+app name: OTClient
+app version: 0.6.5
+build compiler: gcc 4.7.0
+build date: Jul  7 2014
+build type: Release
+build revision: 0 (devel)
+crash date: Nov 03 2017 19:52:23
+exception: Integer divide by zero (0xc0000094)
+exception address: 0x004277e0
+  backtrace:
+    0: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004277E0]
+    1: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004279D4]
+    2: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000043BFCC]
+    3: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000431BEE]
+    4: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x000000000044E906]
+    5: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457FD2]
+    6: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    7: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    8: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000457E5B]
+    9: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000458037]
+    10: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x0000000000479170]
+    11: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004636A6]
+    12: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe(wglewIsSupported+0x1452fe) [0x000000000077486E]
+    13: C:\Users\Cliente\Desktop\Naruto Ghost 1.1\Naruto Ghost - OpenGL.exe [0x00000000004010FD]
+    14: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x439) [0x0000000077E40F79]
+    15: C:\WINDOWS\SYSTEM32\ntdll.dll(RtlSubscribeWnfStateChangeNotification+0x404) [0x0000000077E40F44]
+
